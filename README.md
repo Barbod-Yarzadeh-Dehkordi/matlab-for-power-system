@@ -8,7 +8,7 @@ Welcome to my MATLAB repository dedicated to power system calculations and simul
 
 This repository is organized into distinct modules for practice and simulation:
 
-*   **exercises/**: Fundamental MATLAB scripts, structural exercises (structs, matrices, arrays), and numerical methods.
+*   **day(x)_exercises.m**: Fundamental MATLAB scripts, structural exercises (structs, matrices, arrays), and numerical methods.
 ---
 
 ## 🛠️ Environment & Setup
